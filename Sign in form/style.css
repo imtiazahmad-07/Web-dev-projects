@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+body{
+    background-color: grey;
+}
+.container{
+    height: 30vw;
+    width: 50vw;
+    background-color: white;
+    margin-left: 25vw;
+    margin-top: 7.55vw;
+    box-shadow: 10px 10px 100px black;
+    border: 0px;
+    border-radius: 2%;
+}
